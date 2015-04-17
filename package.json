@@ -1,0 +1,23 @@
+{
+  "name": "gulp-babel-react-starter-kit",
+  "version": "0.0.1",
+  "dependencies": {
+    "color": "*",
+    "express": "4.*",
+    "react": "^0.13.1"
+  },
+  "devDependencies": {
+    "babel": "~5.1.10",
+    "babelify": "^6.0.1",
+    "browserify": "^9.0.8",
+    "vinyl-source-stream": "^1.1.0",
+    "browser-sync": "^2.6.4",
+    "gulp": "^3.8.11",
+    "gulp-watch": "^4.2.4",
+    "gulp-concat-css": "^2.2.0",
+    "react-tools": "~0.13.1"
+  },
+  "scripts": {
+    "build": "gulp default"
+  }
+}
