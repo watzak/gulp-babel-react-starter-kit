@@ -5,20 +5,19 @@ This is a starter kit for developing with gulp (http://gulpjs.com/), babel (http
 
 ## Getting Started
 
-`$ git clone https://github.com/watzak/gulp-babel-react-starter-kit.git`
-
-`$ cd gulp-babel-react-starter-kit`
-
-`$ sudo npm install -g gulp-cli`        # Install Gulp task runner globally
-
-`$ sudo npm install`                    # Install dependencies
-
+```shell
+$ git clone https://github.com/watzak/gulp-babel-react-starter-kit.git
+$ cd gulp-babel-react-starter-kit
+$ sudo npm install -g gulp-cli        # Install Gulp task runner globally
+$ sudo npm install                    # Install dependencies
+```
 
 
 ## Build
 
-`$ npm run build`                       # or, `gulp default`
-
+```shell
+$ npm run build                       # or, gulp default
+```
 Automatically opens `localhost:3000` to view the project.
 
 
@@ -26,6 +25,14 @@ Automatically opens `localhost:3000` to view the project.
 ## Demo
 
 ![Alt Text](https://github.com/watzak/gulp-babel-react-starter-kit/blob/master/build.gif)
+
+
+
+## Development Tools
+- React (JavaScript library for building user interfaces)
+- Gulp (JavaScript streaming build system and task automation)
+- Babel (JavaScript compiler that turns ES6+ code into ES5 friendly code)
+- BrowserSync (Lightweight HTTP server for development)
 
 
 
