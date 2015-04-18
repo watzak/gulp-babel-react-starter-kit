@@ -42,7 +42,7 @@ gulp.task('browserSync', function () {
 gulp.task('watchFiles', function () {
     gulp.watch('./src/js/**/*.jsx', []);
     gulp.watch('./src/styles/*.css', []);
-    gulp.watch('./src/js/index.jsx', []);
+    gulp.watch('./src/index.html', []);
 });
 
 gulp.task('default', ['build','copyIndex','copyCSS','browserSync','watchFiles']);
