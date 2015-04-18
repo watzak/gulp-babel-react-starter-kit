@@ -23,6 +23,12 @@ Automatically opens `localhost:3000` to view the project.
 
 
 
+## Demo
+
+![Alt Text](https://github.com/watzak/gulp-babel-react-starter-kit/blob/master/build.gif)
+
+
+
 ## Possible Errors during launching app
 
 > error: emfile, open 'node_modules/react/package.json
